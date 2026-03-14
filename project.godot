@@ -4,6 +4,10 @@ config/name="Furanku Addons"
 run/main_scene=""
 config/features=PackedStringArray("4.0")
 
+[editor_plugins]
+
+enabled=PackedStringArray("gut")
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
