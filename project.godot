@@ -1,0 +1,9 @@
+[application]
+
+config/name="Furanku Addons"
+run/main_scene=""
+config/features=PackedStringArray("4.0")
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
